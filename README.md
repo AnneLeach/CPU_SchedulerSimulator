@@ -21,6 +21,7 @@ For each execution, the following metrics were recorded in one of five logs, eac
 - Total throughput (processes / unit time)
 - CPU utilization
 - Average number of processes in ready queue.
+Each of the logs is in CSV to export to spreadsheet.  A report, included, lists the results of the metrics above.  A sample of one of the logs qq02 is included for review.
 
 ## Design 
 Main Components
