@@ -1,6 +1,6 @@
 ## CPU Scheduler Simulator
 This program simulates a CPU scheduler which runs processes based on a number of input metrics.
-- Average arrival rate, lambda, in processes/second.  Follow Poisson Distribution.  
+- Average arrival rate, lambda, in processes/second.  Follows Poisson Distribution.  
 - Average service rate, Ts, determined by exponential distribution.
 - If applicable, quantum size for Round Robin.
 - Scheduling Algorithm.
