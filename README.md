@@ -4,6 +4,7 @@ This program simulates a CPU scheduler which runs processes based on a number of
 - Average service rate, Ts, determined by exponential distribution.
 - If applicable, quantum size for Round Robin.
 - Scheduling Algorithm.
+
 List of Algorithms Used
 1. First Come First Serve (FCFS)
 2. Shortest Remaining Time First (SRTF)
